@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CAN1_H Pin=CAN-1
+Removed Pin From Net: NetName=CAN1_L Pin=CAN-2
+Removed Pin From Net: NetName=GND Pin=CAN-3
+Removed Pin From Net: NetName=GND Pin=CAN-4
+Change Component Footprint: Designator=CAN Old Footprint=SM02B-GHS-TB New Footprint=HDR1X2
+Change Component Comment : Designator=CAN Old Comment=GH02 New Comment=Header 2
+Change component parameters: Designator = "CAN"; Footprint = "HDR1X2"; UniqueID = "\KBIPZNMN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN1_L Pin=CAN-1
+Added Pin To Net: NetName=CAN1_H Pin=CAN-2

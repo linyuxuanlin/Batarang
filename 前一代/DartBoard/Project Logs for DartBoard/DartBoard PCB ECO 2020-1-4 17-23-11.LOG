@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LED1(PE11) Pin=P1-2
+Removed Pin From Net: NetName=LED2(PE12) Pin=P1-3
+Removed Pin From Net: NetName=LED1(PE11) Pin=P2-2
+Removed Pin From Net: NetName=LED2(PE12) Pin=P2-3
+Added Pin To Net: NetName=CAN1_RX(PD0) Pin=P1-2
+Added Pin To Net: NetName=CAN1_TX(PD1) Pin=P1-3
+Added Pin To Net: NetName=CAN1_RX(PD0) Pin=P2-2
+Added Pin To Net: NetName=CAN1_TX(PD1) Pin=P2-3
